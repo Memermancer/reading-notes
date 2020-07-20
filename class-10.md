@@ -1,0 +1,7 @@
+Html/css Chapter 15 again
+
+Layout is a doozy so it is always a good idea to review and dive deeper. The difference between the various positioning styles is not as clear to me as I'd like it to be. I'd like to experiment more with floating elements. I could use it to create multi column floats, the alternative being display grid. I should ask if it is worth using style layouts like the 960.gs that the book speaks of.
+
+JS Chapter 10
+
+Handling errors and debugging is something I wish to improve, some of the debug exercises in class have not gone well. JS is like puzzle solving, and in exacting, repeatable steps. Debugging is tracing errors through their execution, or interference thereof. There is and order and context of execution. The stack is a priority management system that JS uses to get functions the information they need. Functions in JS have lexical scope, which means they are linked to objects that contain their definition. Error objects will tell you critical information about where the code is failing and why. The textbook has some good tips for debugging, including logging out info, breaking down code, and rubber ducking. Kinda want to experiment with console.table but maybe I'm a madman. Chrome and firefox allow us to step through the code using breakpoints, another tool to isolate where the problem might be. Another thing that might be fun is try catch and finally.
