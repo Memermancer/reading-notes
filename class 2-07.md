@@ -1,0 +1,8 @@
+**Google's perfect team
+Read this earlier in code 201, still a valuable resource that really illustrates how being flexible and hearing people is of great benefit to the effectiveness of a team.
+
+**A Conversation about REST with my brother
+Roy Fielding helped write many of the first web servers. The whole world wide web is built on an architectural style called REST. REST defines resources that protocols point to. Machines can use URL's to point each other to the machine that contains the resource or concept that they are searching for. The author then goes on to speak on verbs and polymorphism, which is the concept that different nouns can have the same verbs applied to them, such as get. The author espouses the idea of having both machine readable and human readable versions of sites. Use web frameworks like Ruby and Rails that are RESTful.
+
+**Docs for Superagent
+Superagent is a lightweight API that is built to be easy to use and function with Node.js. Make a request by calling a method (.then .end or await) on the request object. Query can help produce more complex pathing, or make head requests. There's a lot of stuff here that will make more sense when I get a chance to use it. Stuff about private keys and certificates in HTTPS requests, for instance. Superagent can even parse data from responses. Timeouts can be set to avoid waiting forever for a response that isn't coming. Exciting things on the horizon.
